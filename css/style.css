@@ -1,13 +1,13 @@
 .flashy {
   color: red;
-  font-size: 20px;
   font-style:  italic;
+  font-weight: 600;
 }
 
 p.best {
     font-style:  italic;
     text-align: center;
-    color: blue;
+  font-weight: 1000;
 }
 
 p {
@@ -17,4 +17,27 @@ p {
 ul {
     font-size: 20px;
     line-height: 30px;
+}
+h1 {
+  font-size: 60px;
+}
+
+.scary {
+  font-style: italic;
+}
+.summary {
+  font-style:  italic;
+  font-weight: 1000;
+}
+
+h2.intro {
+  color: red;
+  font-size: 25px;
+}
+p.intro {
+  line-height: 20px;
+}
+
+img.intro {
+  
 }
